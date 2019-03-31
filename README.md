@@ -9,6 +9,6 @@
 
 # To run the code:
   You can implement the GenMap.js in our website, or if you wants just to test and see your results, you can use a local server looks like   WAMP, XAMPP or LAMP.<br />
-  You need too, csv files with your subscribers data, you can find in your Youtube's Dashboard. (I put two sample files)<br />
+  You need too, csv files with your subscribers data, you can find in your Youtube's Dashboard. (I put two sample files) <br /> <br />
   
-Good tests and learning !!
+  Good tests and learning !!
